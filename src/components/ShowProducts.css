@@ -1,0 +1,16 @@
+.show-products {
+    display: flex;
+    align-items: center;
+}
+
+.show-products .btn button {
+    border: 2px solid #ccc;
+    padding: 0.1rem 0.6rem;
+    margin: 0 0.3rem 0;
+    background-color: transparent;
+}
+
+.show-products .btn button:hover {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}

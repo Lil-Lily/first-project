@@ -1,0 +1,47 @@
+.card {
+    height: auto;
+}
+
+.card-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.card-title {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 0.3rem;
+}
+
+.price-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.price-btn .price {
+    border: 1px solid #ddd;
+    width: 40%;
+    padding: 0.4rem;
+}
+
+.price-btn button {
+    width: 35%;
+    padding: 0.4rem;
+}
+
+.new {
+    position: absolute;
+    left: 3px;
+    top: 2px;
+    border: 1px solid #0d6efd;
+    padding: 0.2rem;
+}
+.heart {
+    position: absolute;
+    right: 3.5px;
+    top: 2px;
+    color: #0d6efd;
+    font-size: 1.3rem;
+}

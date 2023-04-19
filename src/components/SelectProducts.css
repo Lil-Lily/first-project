@@ -1,0 +1,13 @@
+.select-products {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid #ccc;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    margin: 0 0.1rem 0;
+}
+
+.select-products .text {
+    font-weight: bold;
+    font-size: 14px;
+}

@@ -1,0 +1,9 @@
+.example-image {
+    width: 100%;
+    border: 1px solid #ccc;
+}
+
+.example-image img {
+    max-width: 100%;
+    height: 350px;
+}
